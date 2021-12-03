@@ -1,0 +1,24 @@
+[
+  {
+    "type": "issue",
+    "url": "https://github.com/Dazovscky/Python/issues/1",
+    "repository": "https://github.com/Dazovscky/Python",
+    "user": "https://github.com/Dazovscky",
+    "title": "2048",
+    "body": "",
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "labels": [
+
+    ],
+    "reactions": [
+
+    ],
+    "closed_at": null,
+    "created_at": "2021-03-22T18:09:43Z",
+    "updated_at": "2021-03-22T18:09:43Z"
+  }
+]
